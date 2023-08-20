@@ -10,6 +10,7 @@ Created an Issue Tracker Web Application using HTML, CSS, JavaScript, Node js, E
 All this data will be stored at MongoDB Atlas.
 
 <img src="https://github.com/mouni131199/Issue_Tracker/blob/main/Screenshot%20(58)%20-%20Copy.png" />
+<img src="https://github.com/mouni131199/Issue_Tracker/blob/main/Screenshot%20(59)%20-%20Copy.png" />
 
 
 
